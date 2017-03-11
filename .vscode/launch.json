@@ -8,8 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}\\bin\\www",
-            "internalConsoleOptions": "openOnFirstSessionStart"
+            "program": "${workspaceRoot}\\bin\\www"
         },
         {
             "type": "node",
